@@ -47,6 +47,3 @@ const renderOrderedTask =()=>{
 
 setDate()
 
-const elmPedido =()=>{
-    
-}
